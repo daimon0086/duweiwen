@@ -1,0 +1,77 @@
+/*metro global style*/
+.metro .bg-m_darkblue {
+  background-color: #2f343d !important;
+}
+.metro .bg-m_darkblue2 {
+  background-color: #383e48 !important;
+}
+.metro .bg-grassgreen {
+  background-color: #91d100 !important;
+}
+.metro .fg-blackBlue {
+  color: #4c5264 !important;
+}
+.metro .fg-darkCobalt2 {
+  color: #343942 !important;
+}
+
+.metro .bg-cyan {
+  background-color: #0090d9 !important;
+}
+.metro .bg-lightRed {
+  background-color: #f35958 !important;
+}
+.metro .bg-darkViolet {
+  background-color: #736086 !important;
+}
+.metro .bg-darkCyan {
+  background-color: #00689d !important;
+}
+.metro .bg-darkEmerald2 {
+  background-color: #08746a !important;
+}
+.metro .bg-lightRed2 {
+  background-color: #ba4342 !important;
+}
+.metro .bg-darkViolet2 {
+  background-color: #50435e !important;
+}
+.metro .margin_2_5{margin:2% 5%;}
+.metro .margin_3_5{margin:3% 5%;}
+.metro .margin_4_5{margin:4% 5%;}
+.metro .margin_left_5{margin:0 5%;}
+.metro .padding_1_2{padding:1% 2%;}
+body{background:#20242a;}
+#left{float:left;width:190px;}
+#right{position:relative;margin-left:190px;min-height:900px; background:#e9ecf1;}
+.logo{height:60px;background:#343942; overflow:hidden; background:url(../images/logo.jpg) no-repeat left top;}
+.header_menu{height:60px;background:#FFF;}
+.user_info{margin-top:15px;margin-bottom:30px;margin-left:10px;overflow:hidden;}
+.user_info_img{margin-right:10px;float:left;border-radius: 100px;width:65px;height:65px; overflow:hidden;}
+.user_info_name {color:#fff;font-size:14px;}
+.user_info_post {color:#b1b1b1;font-size:12px;}
+.header_menu_body{height:60px;}
+.metro button.padding_15{padding:21px;}
+.right_1em{margin-right:1em;}
+.borderradius{border-radius:100px;}
+.breadcrumbs i{margin-left:5px;}
+.content{margin:25px;}
+.metro .doctor{padding-left:100px; background:url(../images/b_doctor.png) no-repeat 15px 15px;}
+.metro .doctor span{font-size:150%; color:#F00;}
+.list_content{margin-top:20px;}
+.metro .breadcrumbs ul a:before{border:none;}
+.metro .breadcrumbs ul a:after{border:none; }
+.metro .breadcrumbs ul a{background:none; color:#343942;}
+.metro .breadcrumbs ul a:hover{ color:#000;}
+.metro .breadcrumbs ul a:hover:before {border-color:none;}
+.metro .breadcrumbs ul a:hover:before { border-color:none;}
+.metro .breadcrumbs ul a:hover {background: none ;}
+.metro .breadcrumbs ul .active:hover a {color: #000;}
+.metro .breadcrumbs ul a {padding:0;}
+.metro .breadcrumbs ul li {float: left;margin: 0 3px;}
+
+.metro .input-control.checkbox, .metro .input-control.radio, .metro .input-control.switch, .metro .input-control.text, .metro .input-control.password, .metro .input-control.select, .metro .input-control.textarea{margin-bottom:0;}
+.metro label {display: block; margin: 0;}
+.metro .input-control.text.list_input_sort{height:22px;}
+
+.metro .input-control.text.list_input_sort input{padding:0;width:40px;}
